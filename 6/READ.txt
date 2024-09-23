@@ -1,0 +1,4 @@
+Esta foi minha primeira experiência com raspagem de dados, e apreciei muito o processo, apesar de não ter conseguido completá-lo com sucesso. Reconheço que meu código precisa de melhorias em termos de organização. O maior desafio para mim foi localizar e extrair os dados da tabela (classificada como "table-condensed") dentro do modal-dialog. Agradeço pela oportunidade de aprender e desenvolver minhas habilidades nessa área.
+
+
+
